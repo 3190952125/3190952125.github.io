@@ -1,0 +1,105 @@
+{
+    "resources": [
+        {
+            "name": "mecha_1502b",
+            "type": "json",
+            "url": "assets/core_element/mecha_1502b_ske.json"
+        },
+        {
+            "name": "mecha_1502b_texture_config",
+            "type": "json",
+            "url": "assets/core_element/mecha_1502b_tex.json"
+        },
+        {
+            "name": "mecha_1502b_texture",
+            "type": "image",
+            "url": "assets/core_element/mecha_1502b_tex.png"
+        },
+        {
+            "name": "skin_1502b",
+            "type": "json",
+            "url": "assets/core_element/skin_1502b_ske.json"
+        },
+        {
+            "name": "skin_1502b_texture_config",
+            "type": "json",
+            "url": "assets/core_element/skin_1502b_tex.json"
+        },
+        {
+            "name": "skin_1502b_texture",
+            "type": "image",
+            "url": "assets/core_element/skin_1502b_tex.png"
+        },
+        {
+            "name": "skin_1000",
+            "type": "json",
+            "url": "assets/core_element/skin_1000_ske.json"
+        },
+        {
+            "name": "skin_1000_texture_config",
+            "type": "json",
+            "url": "assets/core_element/skin_1000_tex.json"
+        },
+        {
+            "name": "skin_1000_texture",
+            "type": "image",
+            "url": "assets/core_element/skin_1000_tex.png"
+        },
+        {
+            "name": "weapon_1000",
+            "type": "json",
+            "url": "assets/core_element/weapon_1000_ske.json"
+        },
+        {
+            "name": "weapon_1000_texture_config",
+            "type": "json",
+            "url": "assets/core_element/weapon_1000_tex.json"
+        },
+        {
+            "name": "weapon_1000_texture",
+            "type": "image",
+            "url": "assets/core_element/weapon_1000_tex.png"
+        },
+        {
+            "name": "weapon_1000_texture",
+            "type": "image",
+            "url": "assets/core_element/weapon_1000_tex.png"
+        },
+        {
+            "name": "b1",
+            "type": "image",
+            "url": "assets/core_element/b1.png"
+        },
+        {
+            "name": "b2",
+            "type": "image",
+            "url": "assets/core_element/b2.png"
+        },
+        {
+            "name": "b3",
+            "type": "image",
+            "url": "assets/core_element/b3.png"
+        },
+        {
+            "name": "bn",
+            "type": "image",
+            "url": "assets/core_element/bn.png"
+        },
+        {
+            "name": "a",
+            "type": "image",
+            "url": "assets/core_element/bbb.png"
+        },
+        {
+            "name": "bg",
+            "type": "image",
+            "url": "assets/core_element/bg.png"
+        }
+    ],
+    "groups": [
+        {
+            "name": "preload",
+            "keys": "b1,b2,b3,bn,a,bg,mecha_1502b,mecha_1502b_texture_config,mecha_1502b_texture,skin_1502b,skin_1502b_texture_config,skin_1502b_texture,skin_1000,skin_1000_texture_config,skin_1000_texture,weapon_1000,weapon_1000_texture_config,weapon_1000_texture"
+        }
+    ]
+}
