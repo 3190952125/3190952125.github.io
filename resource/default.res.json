@@ -1,0 +1,35 @@
+{
+	"groups": [
+		{
+			"keys": "resource_config_json,game_config_json,ui_tex_png,ui_tex_json,ui_ske_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "game_config.json",
+			"type": "json",
+			"name": "game_config_json"
+		},
+		{
+			"url": "resource_config.json",
+			"type": "json",
+			"name": "resource_config_json"
+		},
+		{
+			"url": "assets/ui_ske.json",
+			"type": "json",
+			"name": "ui_ske_json"
+		},
+		{
+			"url": "assets/ui_tex.json",
+			"type": "json",
+			"name": "ui_tex_json"
+		},
+		{
+			"url": "assets/ui_tex.png",
+			"type": "image",
+			"name": "ui_tex_png"
+		}
+	]
+}

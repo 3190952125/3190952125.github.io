@@ -1,0 +1,200 @@
+{
+  "groups": [],
+  "resources": [
+    {
+      "url": "config.json",
+      "type": "json",
+      "name": "config.json"
+    },
+    {
+      "url": "default.res.json",
+      "type": "json",
+      "name": "default.res.json"
+    },
+    {
+      "url": "game_config.json",
+      "type": "json",
+      "name": "game_config_json"
+    },
+    {
+      "url": "resource_config.json",
+      "type": "json",
+      "name": "resource_config_json"
+    },
+    {
+      "url": "wing.res.json",
+      "type": "json",
+      "name": "wing.res.json"
+    },
+    {
+      "url": "assets/b1_ske.json",
+      "type": "json",
+      "name": "assets/b1_ske.json"
+    },
+    {
+      "url": "assets/b1_tex.json",
+      "type": "json",
+      "name": "assets/b1_tex.json"
+    },
+    {
+      "url": "assets/b1_tex.png",
+      "type": "image",
+      "name": "assets/b1_tex.png"
+    },
+    {
+      "url": "assets/c1_ske.json",
+      "type": "json",
+      "name": "assets/c1_ske.json"
+    },
+    {
+      "url": "assets/c1_tex.json",
+      "type": "json",
+      "name": "assets/c1_tex.json"
+    },
+    {
+      "url": "assets/c1_tex.png",
+      "type": "image",
+      "name": "assets/c1_tex.png"
+    },
+    {
+      "url": "assets/c2_ske.json",
+      "type": "json",
+      "name": "assets/c2_ske.json"
+    },
+    {
+      "url": "assets/c2_tex.json",
+      "type": "json",
+      "name": "assets/c2_tex.json"
+    },
+    {
+      "url": "assets/c2_tex.png",
+      "type": "image",
+      "name": "assets/c2_tex.png"
+    },
+    {
+      "url": "assets/m1_ske.json",
+      "type": "json",
+      "name": "assets/m1_ske.json"
+    },
+    {
+      "url": "assets/m1_tex.json",
+      "type": "json",
+      "name": "assets/m1_tex.json"
+    },
+    {
+      "url": "assets/m1_tex.png",
+      "type": "image",
+      "name": "assets/m1_tex.png"
+    },
+    {
+      "url": "assets/mecha_1502b_ske.json",
+      "type": "json",
+      "name": "assets/mecha_1502b_ske.json"
+    },
+    {
+      "url": "assets/mecha_1502b_tex.json",
+      "type": "json",
+      "name": "assets/mecha_1502b_tex.json"
+    },
+    {
+      "url": "assets/mecha_1502b_tex.png",
+      "type": "image",
+      "name": "assets/mecha_1502b_tex.png"
+    },
+    {
+      "url": "assets/skin_1502b_ske.json",
+      "type": "json",
+      "name": "assets/skin_1502b_ske.json"
+    },
+    {
+      "url": "assets/skin_1502b_tex.json",
+      "type": "json",
+      "name": "assets/skin_1502b_tex.json"
+    },
+    {
+      "url": "assets/skin_1502b_tex.png",
+      "type": "image",
+      "name": "assets/skin_1502b_tex.png"
+    },
+    {
+      "url": "assets/ui_ske.json",
+      "type": "json",
+      "name": "ui_ske_json"
+    },
+    {
+      "url": "assets/ui_tex.json",
+      "type": "json",
+      "name": "ui_tex_json"
+    },
+    {
+      "url": "assets/ui_tex.png",
+      "type": "image",
+      "name": "ui_tex_png"
+    },
+    {
+      "url": "icon/c10001.png",
+      "type": "image",
+      "name": "icon/c10001.png"
+    },
+    {
+      "url": "icon/c10002.png",
+      "type": "image",
+      "name": "icon/c10002.png"
+    },
+    {
+      "url": "icon/c10003.png",
+      "type": "image",
+      "name": "icon/c10003.png"
+    },
+    {
+      "url": "icon/c10004.png",
+      "type": "image",
+      "name": "icon/c10004.png"
+    },
+    {
+      "url": "icon/c10005.png",
+      "type": "image",
+      "name": "icon/c10005.png"
+    },
+    {
+      "url": "icon/c10006.png",
+      "type": "image",
+      "name": "icon/c10006.png"
+    },
+    {
+      "url": "icon/c10007.png",
+      "type": "image",
+      "name": "icon/c10007.png"
+    },
+    {
+      "url": "icon/c10008.png",
+      "type": "image",
+      "name": "icon/c10008.png"
+    },
+    {
+      "url": "icon/c10009.png",
+      "type": "image",
+      "name": "icon/c10009.png"
+    },
+    {
+      "url": "icon/c10010.png",
+      "type": "image",
+      "name": "icon/c10010.png"
+    },
+    {
+      "url": "icon/m0001.png",
+      "type": "image",
+      "name": "icon/m0001.png"
+    },
+    {
+      "url": "icon/m0002.png",
+      "type": "image",
+      "name": "icon/m0002.png"
+    },
+    {
+      "url": "icon/m0003.png",
+      "type": "image",
+      "name": "icon/m0003.png"
+    }
+  ]
+}
