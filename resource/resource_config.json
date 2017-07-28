@@ -122,11 +122,11 @@
     "movements": [
         {
             "name": "m0001",
-            "data": "b1",
+            "data": "m1",
             "armature": "armatureName",
             "animations": [
                 {
-                    "animation": "dazhaohu"
+                    "animation": "feiwen3"
                 }
             ]
         },
@@ -136,17 +136,17 @@
             "armature": "armatureName",
             "animations": [
                 {
-                    "animation": "haixiu"
+                    "animation": "dazhaohu"
                 }
             ]
         },
         {
             "name": "m0003",
-            "data": "m1",
+            "data": "b1",
             "armature": "armatureName",
             "animations": [
                 {
-                    "animation": "feiwen3"
+                    "animation": "haixiu"
                 }
             ]
         }

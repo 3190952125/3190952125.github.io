@@ -1,3 +1,39 @@
 {
-    "players": []
+    "player": "a",
+    "players": [
+        {
+            "name": "a",
+            "role": "r1",
+            "clothes": [
+                "c10001",
+                "c10003"
+            ]
+        },
+        {
+            "name": "b",
+            "role": "r1",
+            "clothes": [
+                "c10006",
+                "c10008"
+            ]
+        }
+    ],
+    "messages": [
+        {
+            "players": [
+                "a"
+            ],
+            "movements": [
+                "m0002"
+            ]
+        },
+        {
+            "players": [
+                "b"
+            ],
+            "movements": [
+                "m0003"
+            ]
+        }
+    ]
 }

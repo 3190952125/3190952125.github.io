@@ -102,36 +102,6 @@
 				"type": "image",
 				"name": "assets/m1_tex.png"
 			},
-			"mecha_1502b_ske.json": {
-				"url": "assets/mecha_1502b_ske.json",
-				"type": "json",
-				"name": "assets/mecha_1502b_ske.json"
-			},
-			"mecha_1502b_tex.json": {
-				"url": "assets/mecha_1502b_tex.json",
-				"type": "json",
-				"name": "assets/mecha_1502b_tex.json"
-			},
-			"mecha_1502b_tex.png": {
-				"url": "assets/mecha_1502b_tex.png",
-				"type": "image",
-				"name": "assets/mecha_1502b_tex.png"
-			},
-			"skin_1502b_ske.json": {
-				"url": "assets/skin_1502b_ske.json",
-				"type": "json",
-				"name": "assets/skin_1502b_ske.json"
-			},
-			"skin_1502b_tex.json": {
-				"url": "assets/skin_1502b_tex.json",
-				"type": "json",
-				"name": "assets/skin_1502b_tex.json"
-			},
-			"skin_1502b_tex.png": {
-				"url": "assets/skin_1502b_tex.png",
-				"type": "image",
-				"name": "assets/skin_1502b_tex.png"
-			},
 			"ui_ske.json": {
 				"url": "assets/ui_ske.json",
 				"type": "json",
